@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Chartwell Web Pies";
+  src:
+    url("../fonts/Chartwell-Pies.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.chartwell-pies {
+  font-family: 'Chartwell Web Pies';
+  font-size: 250px;
+  font-variant: discretionary-ligatures;
+}
+.chartwell-pies span:nth-child(1) {
+  color: #F1924A;
+}
+.chartwell-pies span:nth-child(2) {
+  color: #3A337D;
+}
+.chartwell-pies span:nth-child(3) {
+  color: #4AACF8; 
+}
+.chartwell-pies .chartwell-bg {
+  color: #ffffff;
+}
+/* .chartwell-pies span:nth-child(4) {
+  color: #4CA44A;
+}
+.chartwell-pies span:nth-child(5) {
+  color: #FFFD57;
+} */

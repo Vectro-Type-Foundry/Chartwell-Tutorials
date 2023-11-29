@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "VCTR Mono Web";
+  src:
+    url("../fonts/VCTRMono-Regular.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "VCTR Mono Web";
+  src:
+    url("../fonts/VCTRMono-RegularItalic.woff2") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "VCTR Mono Web";
+  src:
+    url("../fonts/VCTRMono-Bold.woff2") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "VCTR Mono Web";
+  src:
+    url("../fonts/VCTRMono-BoldItalic.woff2") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "VCTR Mono Web";
+  src:
+    url("../fonts/VCTRMono-Black.woff2") format("woff");
+  font-weight: 800;
+  font-style: normal;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "VCTR Mono Web", sans-serif;
+  padding: 10px 30px 30px;
+}
+h1 {
+  font-weight: bold;
+  border-bottom: 1px solid #000000;
+  padding: 10px 0;
+  margin: 0 0 100px;
+}
+figure {
+  padding: 0;
+  margin: 0 0 75px;
+}
