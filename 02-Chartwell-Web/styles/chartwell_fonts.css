@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "Chartwell Web Arcs";
+  src: url(
+    "../fonts/Chartwell-Arcs.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Areas";
+  src: url(
+    "../fonts/Chartwell-Areas.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Areas Ranges";
+  src: url(
+    "../fonts/Chartwell-AreasRanges.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Bars";
+  src: url(
+    "../fonts/Chartwell-Bars.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Bars3D";
+  src: url(
+    "../fonts/Chartwell-Bars3D.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Histograms";
+  src: url(
+    "../fonts/Chartwell-Histograms.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Lines B";
+  src: url(
+    "../fonts/Chartwell-LinesB.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Pies";
+  src: url(
+    "../fonts/Chartwell-Pies.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Progress Bars";
+  src: url(
+    "../fonts/Chartwell-ProgressBars.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Progress Boxes";
+  src: url(
+    "../fonts/Chartwell-ProgressBoxes.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Progress Dots";
+  src: url(
+    "../fonts/Chartwell-ProgressDots.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Progress Squares";
+  src: url(
+    "../fonts/Chartwell-ProgressSquares.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Progress Stars";
+  src: url(
+    "../fonts/Chartwell-ProgressStars.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Radar";
+  src: url(
+    "../fonts/Chartwell-Radar.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Rings";
+  src: url(
+    "../fonts/Chartwell-Rings.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Rose";
+  src: url(
+    "../fonts/Chartwell-Rose.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Scatter";
+  src: url(
+    "../fonts/Chartwell-Scatter.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Chartwell Web Steps B";
+  src: url(
+    "../fonts/Chartwell-StepsB.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
