@@ -1,46 +1,107 @@
 /* font-face declarations in chartwell_fonts.css */
 
 .chart {
-  font-size: 250px;
+  font-size: 200px;
   font-variant: discretionary-ligatures;
   color: #3A337D;
 }
 .chartwell-pies {
   font-family: 'Chartwell Web Pies';
+  font-size: 250px;
 }
 .chartwell-areas {
   font-family: 'Chartwell Web Areas';
-  font-size: 200px;
   padding-top: 20px;
 }
 .chartwell-areas-ranges {
   font-family: 'Chartwell Web Areas Ranges';
-  font-size: 200px;
   padding-top: 20px;
 }
 .chartwell-lines {
   font-family: 'Chartwell Web Lines B';
-  font-size: 200px;
   padding-top: 20px;
 }
 .chartwell-steps {
   font-family: 'Chartwell Web Steps B';
-  font-size: 200px;
   padding-top: 20px;
 }
 .chartwell-bars {
   font-family: 'Chartwell Web Bars';
-  font-size: 200px;
   padding-top: 20px;
 }
-.chart-cycle-colors span:nth-child(1) {
+.chartwell-histograms {
+  font-family: 'Chartwell Web Histograms';
+  padding-top: 20px;
+}
+.chartwell-bars-3D {
+  font-family: 'Chartwell Web Bars 3D';
+  padding-top: 20px;
+}
+.chartwell-radar {
+  font-family: 'Chartwell Web Radar';
+  padding-top: 20px;
+  font-size: 250px;
+}
+.chartwell-rose {
+  font-family: 'Chartwell Web Rose';
+  padding-top: 20px;
+  font-size: 250px;
+}
+.chartwell-rings {
+  font-family: 'Chartwell Web Rings';
+  padding-top: 20px;
+  font-size: 250px;
+}
+.chartwell-arcs {
+  font-family: 'Chartwell Web Arcs';
+  margin-top: -100px;
+  font-size: 350px;
+  line-height: 1em;
+}
+.chartwell-scatter {
+  font-family: 'Chartwell Web Scatter';
+  padding-top: 20px;
+  font-size: 250px;
+}
+.chartwell-progress-bars {
+  font-family: 'Chartwell Web Progress Bars';
+  padding-top: 20px;
+  font-size: 100px;
+}
+.chartwell-progress-boxes {
+  font-family: 'Chartwell Web Progress Boxes';
+  padding-top: 20px;
+  font-size: 80px;
+}
+.chartwell-progress-stars {
+  font-family: 'Chartwell Web Progress Stars';
+  font-size: 80px;
+}
+.chartwell-progress-squares {
+  font-family: 'Chartwell Web Progress Squares';
+  font-size: 80px;
+}
+.chartwell-progress-dots {
+  font-family: 'Chartwell Web Progress Dots';
+  font-size: 80px;
+}
+.progress-bars-bar {
+  color: #4AACF8;
+} 
+.chart-cycle-colors span:nth-child(5n+1) {
   color: #F1924A;
 }
-.chart-cycle-colors span:nth-child(2) {
+.chart-cycle-colors span:nth-child(5n+2) {
   color: #3A337D;
 }
-.chart-cycle-colors span:nth-child(3) {
+.chart-cycle-colors span:nth-child(5n+3) {
   color: #4AACF8; 
+}
+.chart-cycle-colors span:nth-child(5n+4) {
+  color: #FFFD57;
+}
+.chart-cycle-colors span:nth-child(5n+5) {
+  color: #4CA44A;
 }
 .chart-grid {
   color: #dddddd;
@@ -48,9 +109,3 @@
 .chart-ref {
   color: #ff0000;
 }
-/* .chartwell-pies span:nth-child(4) {
-  color: #4CA44A;
-}
-.chartwell-pies span:nth-child(5) {
-  color: #FFFD57;
-} */
